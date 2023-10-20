@@ -14,8 +14,8 @@ export default function Home() {
         <meta property="og:image" content="https://wichardbormozi.netlify.app/default.png" />
         <meta property="og:url" content="https://wichardbormozi.netlify.app/" />
         <meta property="og:description" content="Entrepreneur, Businessman and Investor Chatbot Tool" />
-        <meta property="og:image:width" content= "600"/>
-        <meta property="og:image:height" content= "315"/>
+        <meta property="og:image:width" content= "1200"/>
+        <meta property="og:image:height" content= "630"/>
       </Head>
 
       <main>
