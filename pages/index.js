@@ -10,7 +10,8 @@ export default function Home() {
         <title>Wichard Bormozi</title>
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Wichard Bormozi" />
-        <meta property="og:image" content="/public/cover.jpeg" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://wichardbormozi.netlify.app/cover.jpeg" />
         <meta property="og:url" content="https://wichardbormozi.netlify.app/" />
         <meta property="og:description" content="Entrepreneur, Businessman and Investor Chatbot Tool" />
         <meta property="og:image:width" content= "1200"/>
