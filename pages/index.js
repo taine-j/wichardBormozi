@@ -11,6 +11,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Wichard Bormozi" />
         <meta property="og:image:secure_url" content="https://wichardbormozi.netlify.app/default.png" />
+        <meta property="og:image" content="http://wichardbormozi.netlify.app/default.png"  />
+        <meta property="og:image:type" content="image/png" /> 
         <meta property="og:url" content="https://wichardbormozi.netlify.app/" />
         <meta property="og:description" content="Entrepreneur, Businessman and Investor Chatbot Tool" />
         <meta property="og:image:width" content= "1200"/>
