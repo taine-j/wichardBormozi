@@ -9,6 +9,12 @@ export default function Home() {
       <Head>
         <title>Wichard Bormozi</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta property="og:title" content="Wichard Bormozi" />
+        <meta property="og:image" content="/public/cover.jpeg" />
+        <meta property="og:url" content="https://wichardbormozi.netlify.app/" />
+        <meta property="og:description" content="Entrepreneur, Businessman and Investor Chatbot Tool" />
+        <meta property="og:image:width" content= "1200"/>
+        <meta property="og:image:height" content= "630"/>
       </Head>
 
       <main>
